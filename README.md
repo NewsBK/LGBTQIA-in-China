@@ -38,6 +38,7 @@
 - [TheWanderingCoel](https://github.com/TheWanderingCoel)
 - [Borschts](https://t.me/Borschts)
 - [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
+- [FakeNewsBackup](https://github.com/NewsBK)
 
 ## 文章
 
